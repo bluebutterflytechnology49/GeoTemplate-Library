@@ -3,7 +3,7 @@ The main page for Blue Butterfly Technology Diamond Drill Hole Logging shared Co
 
 ## To add your repo here, open a Pull Request or an Issue.
 
-#Official Templates
+# Official Templates
 
 https://github.com/bluebutterflytechnology49/GeoTemplate-Library
 
